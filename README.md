@@ -1,4 +1,4 @@
-<![CDATA[# ✅ TaskMaster - Professional Flutter Task Management System
+# ✅ TaskMaster - Professional Flutter Task Management System
 
 A production-grade task management ecosystem built with Flutter, featuring persistent local storage and a modern Material 3 design. Evolved from a [core Python CLI logic](App.py) into a cross-platform mobile experience.
 
@@ -179,4 +179,3 @@ Designed and maintained by **[EngYahia25](https://github.com/EngYahia25)**.
   <h3>🌟 Acknowledgments</h3>
   <p>Inspired by modern productivity tools and minimalist design principles.</p>
 </div>
-]]>
