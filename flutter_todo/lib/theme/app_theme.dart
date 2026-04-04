@@ -69,7 +69,8 @@ class AppTheme {
           borderRadius: BorderRadius.circular(12),
         ),
         side: BorderSide.none,
-        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+        labelPadding: const EdgeInsets.symmetric(horizontal: 8),
+        padding: EdgeInsets.zero,
       ),
       inputDecorationTheme: InputDecorationTheme(
         filled: true,
@@ -139,7 +140,8 @@ class AppTheme {
           borderRadius: BorderRadius.circular(12),
         ),
         side: BorderSide.none,
-        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+        labelPadding: const EdgeInsets.symmetric(horizontal: 8),
+        padding: EdgeInsets.zero,
       ),
       inputDecorationTheme: InputDecorationTheme(
         filled: true,

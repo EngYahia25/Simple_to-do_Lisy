@@ -254,7 +254,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
   // ── Filter Chips ───────────────────────────────────────────────────────
   Widget _buildFilterChips(TaskProvider provider, bool isDark) {
     return SizedBox(
-      height: 40,
+      height: 50,
       child: ListView(
         scrollDirection: Axis.horizontal,
         padding: const EdgeInsets.symmetric(horizontal: 16),
